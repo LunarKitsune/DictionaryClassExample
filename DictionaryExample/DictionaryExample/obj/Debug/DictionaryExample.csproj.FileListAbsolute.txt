@@ -1,0 +1,10 @@
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojAssemblyReference.cache
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.Form1.resources
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.Properties.Resources.resources
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.GenerateResource.cache
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\Users\kmacneal\source\repos\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb
